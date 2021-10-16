@@ -1,0 +1,29 @@
+.ReadLetter {
+  background-color: #FFF0F0;
+}
+
+.ReadLetter-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.ReadLetter-content-header {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.ReadLetter-content-header > img {
+  cursor: pointer;
+}
+
+.ReadLetter-content-header-letter {
+  background-color: #FFF;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  height: 500px;
+  width: 850px;
+  padding: 20px;
+}

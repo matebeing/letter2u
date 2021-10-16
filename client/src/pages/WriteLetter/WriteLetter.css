@@ -1,0 +1,50 @@
+.WriteLetter {
+    background-color: #FFF0F0;
+}
+
+.WriteLetter-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.WriteLetter-content-header {
+    background-color: #FFF;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 500px;
+    width: 850px;
+    display: flex;
+    flex-direction: column;
+}
+
+.WriteLetter__address {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    font-weight: 600;
+    border-bottom: 1px solid rgb(223, 223, 223);
+}
+
+.WriteLetter__textarea {
+    height: 50%;
+}
+.WriteLetter__textarea > textarea {
+    width: 95%;
+    padding: 20px;
+    border-bottom: 1px solid rgb(223, 223, 223);
+    height: 100%;
+}
+
+.WriteLetter__submit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    padding: 20px;
+    margin-top: 10%;
+    height: 10%;
+}

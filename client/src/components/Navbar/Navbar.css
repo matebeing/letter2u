@@ -1,0 +1,7 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    color: #AA6A6A;
+    font-weight: 600;
+}
