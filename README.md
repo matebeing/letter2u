@@ -1,9 +1,11 @@
 
-# Letter2U 
+<p align="center">
+  <img src="https://i.imgur.com/oygf2xP.png">
+</p>
 
-![](https://i.imgur.com/2sXjHKG.png)
 
-A React-JS application to write digital letters
+## About
+A React-JS application to write "digital letters"
 
 
 ## Server Environment
